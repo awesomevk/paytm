@@ -1,0 +1,16 @@
+{
+    "name": "pandeyji/paytm-all-in-one",
+    "description": "Paytm with express checkout",
+    "type": "composer-plugin\\",
+    "require": {
+        "php": "5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vivek",
+            "email": "awesomev.k2011@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
